@@ -1,0 +1,2 @@
+# InsightQC-AI-Driven-Quality-Control-Solution-for-Additive-Manufacturing
+InsightQC is an innovative quality control solution designed for the additive manufacturing industry, focusing on defect detection and maintenance scheduling using machine learning and computer vision technologies. The platform helps detect surface defects, predict maintenance needs, and streamline the quality control process.
