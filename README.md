@@ -34,7 +34,4 @@ InsightQC is an AI-powered visual inspection and quality control system designed
 | Automation      | UiPath, PyAutoGUI, Pyperclip |
 | IDEs/Tools      | VS Code, Jupyter Notebook    |
 
----
-
-## 📁 Project Structure
 
