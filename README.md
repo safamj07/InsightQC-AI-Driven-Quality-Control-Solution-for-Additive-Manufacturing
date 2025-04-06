@@ -30,8 +30,8 @@ InsightQC is an AI-powered visual inspection and quality control system designed
 |----------------|------------------------------|
 | Object Detection | YOLOv8 (Ultralytics), Roboflow |
 | Data Processing | Python, Pandas, NumPy         |
-| Visualization   | Matplotlib, OpenPyXL         |
-| Automation      | UiPath, PyAutoGUI, Pyperclip |
-| IDEs/Tools      | VS Code, Jupyter Notebook    |
+| Visualization   | Matplotlib                    |
+| Automation      | UiPath                        |
+| IDEs/Tools      | VS Code                       |
 
 
