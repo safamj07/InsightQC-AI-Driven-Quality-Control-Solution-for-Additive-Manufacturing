@@ -33,7 +33,6 @@ The model was tested using **1,000 images** including various defects (cracks, p
 
 ![WhatsApp Image 2024-04-29 at 7 29 54 PM - Copy](https://github.com/user-attachments/assets/0ddc8a97-02f9-48e4-b15d-7c4ca0ed69ba)
 
-![Screenshot 2025-02-09 212235](https://github.com/user-attachments/assets/a70efa60-2065-46db-8af3-bbfbbcd49c1b)
 
 ### 📏 Key Formulas:
 
