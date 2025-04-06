@@ -1,17 +1,40 @@
 # InsightQC-AI-Driven-Quality-Control-Solution-for-Additive-Manufacturing
-InsightQC is an innovative quality control solution designed for the additive manufacturing industry, focusing on defect detection and maintenance scheduling using machine learning and computer vision technologies. The platform helps detect surface defects, predict maintenance needs, and streamline the quality control process.
 
-Key Features
-- Defect Detection: Uses YOLOv8, a state-of-the-art computer vision algorithm, to detect defects on product surfaces with high accuracy.
-- Impact Damage Detection: Integrates Pulse-Echo Ultrasonic testing to detect barely visible impact damage that may affect the structural integrity of 3D-printed materials.
-- Dynamic Maintenance Scheduling: An RPA bot analyzes defect frequencies and generates dynamic maintenance schedules, alerting stakeholders and maintenance teams about the status of the machinery and products.
-- Data-Driven Insights: Aggregates data from visual and ultrasonic inspections, creating quality control charts and detailed maintenance reports.
-- Cloud-Based Model: The initial version is cloud-based, ensuring easy access to model updates and seamless integration into existing production workflows.
+InsightQC is an AI-powered visual inspection and quality control system designed to detect surface defects in 3D-printed parts. By leveraging state-of-the-art object detection (YOLOv8) and Robotic Process Automation (RPA) tools like UiPath, InsightQC automates the end-to-end defect tracking and maintenance reporting process, significantly improving production efficiency in additive manufacturing.
 
-Technologies Used
-- YOLOv8: A cutting-edge computer vision algorithm for defect detection on the product surfaces.
-- Pulse-Echo Ultrasonic Testing: For detecting internal or barely visible defects.
-- Roboflow: Used for managing the dataset and training the computer vision model.
-- RPA (Robotic Process Automation): For automating defect frequency tracking, maintenance scheduling, and stakeholder notifications.
-- Python: The core programming language for implementing the machine learning and computer vision models.
-- Cloud Computing: For hosting and accessing the model remotely, ensuring scalability and accessibility.
+---
+
+## 🎯 Key Highlights
+
+- 🧠 **YOLOv8** for accurate real-time defect detection
+- 📊 **Automated Excel Reports** to visualize defect frequency
+- 🤖 **RPA Integration** with UiPath for dynamic maintenance scheduling
+- 📂 **Roboflow** integration for dataset management and training
+- 💡 Boosts quality assurance and reduces production downtime
+
+---
+
+## ⚙️ Project Workflow
+
+1. **Input**: Capture or upload 3D-printed product images
+2. **Detection**: YOLOv8 detects and classifies visible surface defects
+3. **Data Logging**: Defect data is stored in an Excel file using Pandas
+4. **Visualization**: Charts are generated to analyze defect trends
+5. **Automation**: UiPath bot reads data and schedules maintenance based on frequency
+
+---
+
+## 🧱 Tech Stack
+
+| Layer           | Tools/Technologies           |
+|----------------|------------------------------|
+| Object Detection | YOLOv8 (Ultralytics), Roboflow |
+| Data Processing | Python, Pandas, NumPy         |
+| Visualization   | Matplotlib, OpenPyXL         |
+| Automation      | UiPath, PyAutoGUI, Pyperclip |
+| IDEs/Tools      | VS Code, Jupyter Notebook    |
+
+---
+
+## 📁 Project Structure
+
