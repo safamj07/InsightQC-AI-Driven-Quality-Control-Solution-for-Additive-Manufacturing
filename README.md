@@ -22,6 +22,8 @@ InsightQC is an AI-powered visual inspection and quality control system designed
 4. **Visualization**: Charts are generated to analyze defect trends
 5. **Automation**: UiPath bot reads data and schedules maintenance based on frequency
 
+![Flowchart - Frame 1 (3)](https://github.com/user-attachments/assets/3936b0d5-e45a-4e73-828b-666916c9b60e)
+
 ---
 
 ## 🧱 Tech Stack
