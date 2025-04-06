@@ -1,4 +1,4 @@
-# InsightQC-AI-Driven-Quality-Control-Solution-for-Additive-Manufacturing
+# InsightQC - Real-time-Defect-Analysis-and-Maintenance-Prediction
 
 InsightQC is an AI-powered visual inspection and quality control system designed to detect surface defects in 3D-printed parts. By leveraging state-of-the-art object detection (YOLOv8) and Robotic Process Automation (RPA) tools like UiPath, InsightQC automates the end-to-end defect tracking and maintenance reporting process, significantly improving production efficiency in additive manufacturing.
 
